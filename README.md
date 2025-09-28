@@ -12,9 +12,6 @@ I'm passionate about building impactful software, particularly in **AI/ML**, **d
 - **Tools & Frameworks:** Git, Node.js, Express
 - **Currently Learning:** Cloud Computing, AI/ML
 
-## 📊 GitHub Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanliu72&show_icons=true&theme=react&hide_border=true)
-
 ## 🎯 Currently
 - 🔭 Working on full-stack web applications for local nonprofits
 - 🌱 Deepening my knowledge in AI/ML and data science
