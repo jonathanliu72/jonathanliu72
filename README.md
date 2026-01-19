@@ -7,9 +7,9 @@
 I'm passionate about building impactful software, particularly in **AI/ML**, **developer tools**, and **backend systems**. Currently working as a software developer at BUILD UMass, where I collaborate with teams to create pro-bono solutions for nonprofits and local organizations.
 
 ## 💻 Tech Stack
-- **Languages:** Python, Java, JavaScript, C, C++, SQL
+- **Languages:** JavaScript, TypeScript, Python, Java, C, C++, SQL
 - **Frontend:** React, HTML, CSS
-- **Tools & Frameworks:** Git, Node.js, Express
+- **Tools & Frameworks:** Next.js, Node.js, Express, Flask, Git
 - **Currently Learning:** Cloud Computing, AI/ML
 
 ## 🎯 Currently
